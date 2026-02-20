@@ -1,5 +1,0 @@
-train: D:/ARM/Pothole_Dataset/images/train
-val: D:/ARM/Pothole_Dataset/images/val
-
-nc: 1
-names: ["pothole"]
